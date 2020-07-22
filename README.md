@@ -13,7 +13,7 @@
 
 
 ## Demo
-Link: [https://ipl-run-estimator.herokuapp.com/](https://ipl-run-estimator.herokuapp.com/)
+Link:https://ipl-score-predic.herokuapp.com/
 
 [![](https://imgur.com/nwjfivx.png)](https://ipl-score-prediction-m.herokuapp.com/)
 
